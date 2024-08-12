@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+.heading {
+    margin-left: 10px;
+    font-size: 35px;
+    font-family: "Bungee Spice", sans-serif;
+    text-align: center;
+}
+
+#heading-text {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Manrope", sans-serif;
+}
+
+#back-to-home, .a {
+    text-decoration: none;
+}
+
+#btn {
+    padding: 8px;
+    width: 40%;
+    font-family: "Alatsi", sans-serif;
+    font-size: 17px;
+    border-radius: 30px;
+}

@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+#container {
+	margin-top: 80px;
+}
+
+.heading-text {
+	margin-bottom: 25px;
+	text-align: center;
+	font-size: 50px;
+	font-family: "Manrope", sans-serif;
+}
+
+.heading {
+	font-size: 30px;
+	font-family: "Manrope", sans-serif;
+}
+
+#card {
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+.text {
+	font-family: sans-serif;
+}
+
+.strong-text {
+	font-family: sans-serif;
+}
+
+#price {
+	color: green;
+}
+
+#button {
+	border-radius: 30px;
+	padding: 10px;
+	font-family: "Alatsi", sans-serif;
+	width: 40%;
+}

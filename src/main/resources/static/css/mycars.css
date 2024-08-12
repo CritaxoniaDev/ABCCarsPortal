@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+#container {
+	margin-top: 90px;
+	margin-bottom: 17%;
+}
+
+#card {
+	margin-bottom: 20px;
+}
+
+#approve-headtext {
+	font-family: "Manrope", sans-serif;
+}
+
+.card-title {
+	font-family: sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	background-color: #00A7E1;
+	border-radius: 20px;
+	text-align: center;
+}
+
+.card-text {
+	margin-bottom: 5px;
+	font-family: sans-serif;
+}
+
+#car-image {
+	max-width: 415px;
+	max-height: 208px;
+}
+
+.text-value {
+	font-family: "Alatsi", sans-serif;
+}
+
+.text-value2 {
+	font-family: "Alatsi", sans-serif;
+	color: green;
+}
+
+#btn {
+	border-radius: 30px;
+	padding: 10px;
+}

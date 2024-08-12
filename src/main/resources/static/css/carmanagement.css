@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+.jumbotron {
+	background-color: #3F84E5;
+}
+
+#head-text {
+	padding-top: 130px;
+	padding-bottom: 70px;
+}
+
+.head-table {
+	font-family: "Manrope", sans-serif;
+	margin-top: 40px;
+}
+
+#container {
+	margin-top: 40px;
+	margin-bottom: 10%;
+}
+
+.price-table {
+	color: green;
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+.text {
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+#heading {
+	font-family: "Manrope", sans-serif;
+	font-size: 60px;
+}
+
+#text {
+	font-family: "Alatsi", sans-serif;
+	color: white;
+	margin-bottom: -2px;
+	letter-spacing: 5px;
+}
+
+.heading-usercartext {
+	font-size: 20px;
+}

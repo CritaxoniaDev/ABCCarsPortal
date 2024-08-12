@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+
+.navbar {
+    background-color: rgb(238, 238, 238);
+    box-shadow: 5px 5px 8px rgb(196, 196, 196);
+    border-radius: 60px;
+    margin-top: 10px;
+}
+
+.navbar-brand {
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 20px;
+}
+
+.subtext {
+    font-size: 20px;
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+
+#button-join-now {
+    padding: 13px;
+}
+
+.btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-family: "Alatsi", sans-serif;
+}
+
+#container {
+    border-radius: 10px;
+    background-image: url(/images/pic-backgorund.png);
+    background-attachment: fixed;
+    background-size: cover;
+    color: #000000;
+    margin-top: 0px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.heading-text-1 {
+    font-size: 60px;
+    padding-top: 50px;
+    font-family: "Manrope", sans-serif;
+}
+
+.heading-text {
+    font-family: "Manrope", sans-serif;
+    font-size: 50px;
+}
+
+#get-started-button {
+    margin-right: 10px;
+}
+
+#get-started-button-2 {
+    margin-right: 10px;
+}
+
+.lead {
+    margin-bottom: 30px;
+}
+
+.carousel {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.carousel-item {
+    height: 400px;
+    /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+}
+
+#footer {
+    background-color: #45526e;
+}

@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+.navbar {
+    background-color: rgb(238, 238, 238);
+    box-shadow: 5px 5px 8px rgb(196, 196, 196);
+    border-radius: 60px;
+    margin-top: 10px;
+}
+
+.navbar-brand {
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 25px;
+}
+
+.nav-item {
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+#btn {
+    padding: 10px;
+    font-family: "Alatsi", sans-serif;
+    font-size: 13px;
+    border-radius: 30px;
+}
+
+.dropdown-item {
+	font-size: 13px;
+	font-weight: 600;
+}
+
+#search-bar {
+    margin-right: 30px;
+    margin-left: 30px;
+    font-family: "Alatsi", sans-serif;
+}
+
+#search-btn {
+	font-size: 13px;
+	border-radius: 30px;
+}
+
+#navbarDropdown {
+	color: green;
+}

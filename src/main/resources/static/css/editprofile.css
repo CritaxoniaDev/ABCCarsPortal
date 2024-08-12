@@ -1,0 +1,68 @@
+@charset "ISO-8859-1";
+
+#container {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.card {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+#header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    border-bottom: none;
+    border-radius: 5px 5px 0 0;
+}
+
+.card-body {
+    padding: 50px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.profile-pic-input {
+    display: none;
+}
+
+.profile-pic {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-pic-label {
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#button {
+    padding: 8px;
+    width: 40%;
+    font-family: "Alatsi", sans-serif;
+    font-size: 17px;
+    border-radius: 30px;
+}
+
+#heading-text {
+    font-family: "Manrope", sans-serif;
+    font-size: 30px;
+}
+
+#id {
+    font-weight: 600;
+}

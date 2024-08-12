@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.body {
+	background-image: url(/images/aboutus-pic.png);
+	background-position: 45%;
+	background-size: cover;
+	padding-top: 40px;
+}
+
+#span-1 {
+	color: #3F84E5;
+	font-weight: 600;
+}
+
+#span-2 {
+	color: #89043D;
+	font-weight: 600;
+}
+
+#span-3 {
+	color: #3A1772;
+	font-weight: 600;
+}
+
+#span-4 {
+	color: #D16014;
+	font-weight: 600;
+}
+
+#span-5 {
+	color: #393E41;
+	font-weight: 600;
+}
+
+#span-6 {
+	color: #00A878;
+	font-weight: 600;
+}
+
+#span-7 {
+	color: #D6A2AD;
+	font-weight: 600;
+}
+
+#span-8 {
+	color: #38182F;
+	font-weight: 600;
+}
+
+#container {
+	margin-top: 50px;
+}

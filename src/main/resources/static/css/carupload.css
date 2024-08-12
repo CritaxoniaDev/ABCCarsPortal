@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+#container {
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+
+#button {
+	margin-top: 10px;
+	padding: 8px;
+    width: 24%;
+    border-radius: 30px;
+    font-family: "Alatsi", sans-serif;
+}
+
+.heading-text {
+	font-family: "Manrope", sans-serif;
+	font-size: 45px;
+	text-align: center;
+	margin-bottom: 10px;
+}
